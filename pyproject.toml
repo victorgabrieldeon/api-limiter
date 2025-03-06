@@ -22,3 +22,4 @@ distribution = true
 dev = [
     "ruff>=0.9.9",
 ]
+
