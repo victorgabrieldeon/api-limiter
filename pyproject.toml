@@ -1,6 +1,6 @@
 [project]
 name = "api-limiter"
-version = "0.1.0"
+version = "0.0.1"
 description = "Api Limiter"
 authors = [
     {name = "victorgabrieldeon", email = "victordeonroyale@gmail.com"},
